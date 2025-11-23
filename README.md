@@ -60,19 +60,20 @@ achievements:
 
 </div>
 
-### 🐍 Contribution Activity (Snake Moving Pattern)
+### 🐍 Contribution Activity - Snake Game Visualization
 
-```
-████████████████████████████████████████████████████
-██████░░██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░████████
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-█░░░░██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██████░░█
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-████████████████████████████████████████████████████
-  Jan    Feb    Mar    Apr    May    Jun    Jul    Aug
-  🐍 Snake moving through contribution graph
-```
+[![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
+
+**What's this snake?** The SNK project generates an interactive snake game from GitHub contribution graphs. Watch the snake consume your contributions in an orderly pattern! The visualization transforms your GitHub activity into a playful game where the snake eats through your contribution cells.
+
+**Features:**
+- 🎮 Automatic daily updates using GitHub Actions
+- 🌈 Customizable color schemes (dark/light modes, custom palettes)
+- 📊 Converts contribution intensity into snake path difficulty
+- 🎨 Available as SVG or GIF animation
+- 🔗 Perfect for GitHub profile README showcase
+
+[Try the Interactive Demo](https://platane.github.io/snk) | [SNK GitHub Repository](https://github.com/Platane/snk)
 
 <div align="center">
 
@@ -103,6 +104,7 @@ achievements:
 | **IDEs** | MPLAB X IDE • VS Code • Makefile |
 | **Version Control** | Git • GitHub |
 | **Operating Systems** | Linux • Ubuntu |
+| **Automation** | GitHub Actions • Workflow Automation |
 | **Web Stack** | Django • HTML5 • CSS3 • JavaScript • Bootstrap |
 
 ---
@@ -170,6 +172,7 @@ achievements:
 ✅ 30% improvement in task response times
 ✅ 8+ technology stack mastery
 ✅ Real-time system optimization expertise
+✅ Automated portfolio visualization with GitHub Actions
 ```
 
 ---
@@ -180,6 +183,7 @@ achievements:
 char* learning_path[] = {
     "Advanced FreeRTOS Concepts",
     "STM32 Development & HAL",
+    "GitHub Actions & CI/CD Automation",
     "AI Integration in Embedded Systems",
     "Advanced Communication Protocols",
     "Safety-Critical Systems Design",
@@ -196,6 +200,7 @@ goals = {
     "Technical": [
         "Master FreeRTOS development",
         "Build 5+ STM32 projects",
+        "Implement GitHub Actions workflows",
         "Contribute to embedded open source"
     ],
     "Career": [
@@ -215,11 +220,14 @@ goals = {
 ⚡ DESIGN     →  Efficient algorithms & architecture  
 🛠️ IMPLEMENT  →  Robust, production-ready systems
 🔍 OPTIMIZE   →  Performance & power efficiency
+🎮 VISUALIZE  →  Creative ways to showcase progress
 ```
 
 > *"Great embedded systems are born from understanding both silicon and software."*
 > 
 > *"Optimization is not just about speed—it's about elegant resource utilization."*
+>
+> *"Your GitHub history tells a story. Make it playful."*
 
 ---
 
