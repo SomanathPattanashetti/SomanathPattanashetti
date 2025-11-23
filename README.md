@@ -60,20 +60,16 @@ achievements:
 
 </div>
 
-### 🐍 Contribution Activity - Snake Game Visualization
+### 🐍 Contribution Activity
 
 [![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
-**What's this snake?** The SNK project generates an interactive snake game from GitHub contribution graphs. Watch the snake consume your contributions in an orderly pattern! The visualization transforms your GitHub activity into a playful game where the snake eats through your contribution cells.
+<div align="center">
 
-**Features:**
-- 🎮 Automatic daily updates using GitHub Actions
-- 🌈 Customizable color schemes (dark/light modes, custom palettes)
-- 📊 Converts contribution intensity into snake path difficulty
-- 🎨 Available as SVG or GIF animation
-- 🔗 Perfect for GitHub profile README showcase
+**Made with ❤️ — A fun snake simulation that eats your GitHub contributions!**
 
-[Try the Interactive Demo](https://platane.github.io/snk) | [SNK GitHub Repository](https://github.com/Platane/snk)
+</div>
+
 
 <div align="center">
 
