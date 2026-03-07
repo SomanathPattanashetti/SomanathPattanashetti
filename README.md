@@ -2,13 +2,9 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║     🚀 Embedded Systems Engineer @ LG Soft India 🚀         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="./robot-banner.svg" alt="Somanath Pattanashetti — Embedded Systems Engineer" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer+%40+LG+Soft+India+%F0%9F%94%A7;Microcontroller+%26+Firmware+Developer+%E2%9A%A1;Daily+LeetCoder+%7C+FAANG-Bound+%F0%9F%8E%AF;Building+Smart+Hardware+Solutions+%F0%9F%A4%96" alt="Dynamic Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer+%40+LG+Soft+India+%F0%9F%94%A7;Microcontroller+%26+Firmware+Developer+%E2%9A%A1;Daily+LeetCoder+%7C+FAANG-Bound+%F0%9F%8E%AF;Building+Smart+Hardware+Solutions+%F0%9F%A4%96" alt="Dynamic Typing" />
 
 <br/>
 
@@ -102,33 +98,6 @@ dsa_progress:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=SomanathPattanashetti&theme=radical&no-frame=true&column=7&rank=-?)
 
 </div>
-
----
-
-## 🧠 DSA & Problem Solving
-
-> Consistency over intensity. One problem at a time.
-
-| Topic | Status |
-|-------|--------|
-| **Arrays & Strings** | ✅ Strong |
-| **Linked Lists** | ✅ Strong |
-| **Stacks & Queues** | ✅ Strong |
-| **Trees & Binary Search** | 🔄 Ongoing |
-| **Graphs & BFS/DFS** | 🔄 Ongoing |
-| **Dynamic Programming** | 🔄 Ongoing |
-| **Heap / Priority Queue** | 📌 Upcoming |
-| **System Design** | 📌 Upcoming |
-
-```c
-// My LeetCode philosophy
-while (!dream_job_secured) {
-    solve_one_problem_today();
-    review_yesterday_solution();
-    understand_time_and_space_complexity();
-    consistency++;
-}
-```
 
 ---
 
