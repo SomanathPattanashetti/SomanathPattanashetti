@@ -23,13 +23,13 @@ name     : Somanath Pattanashetti
 role     : Embedded Software Engineer
 company  : LG Soft India, Bengaluru
 degree   : B.E. Electronics & Communication
-focus    : Microcontroller Programming · Real-Time Systems · DSA
+focus    : DSA
 goal     : FAANG-bound — 2028
 status   : solving one LeetCode problem every single day
 ```
 
-> I write firmware that talks directly to silicon — GPIO, interrupts, RTOS tasks, communication buses.
-> Off the clock, I'm grinding DSA in C++ and Python, building toward a FAANG SDE role by 2028.
+> Learning never stops—just changes levels.
+> Off the clock, I'm grinding DSA, building toward a FAANG SDE role by 2028.
 
 ---
 
@@ -144,7 +144,7 @@ After that it auto-runs daily at midnight.
 ### `> roadmap`
 
 ```
-◼ 2026  →  Embedded Engineer @ LG Soft India          [ ACTIVE ]
+◼ 2026  →  Software Engineer @ LG Soft India          [ ACTIVE ]
            Daily LeetCode · C++ · Python DSA
 
 ◼ 2027  →  300+ LeetCode · System Design HLD/LLD      [ LOADING ]
