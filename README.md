@@ -1,163 +1,210 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7c6aff&height=160&section=header&text=Somanath%20Pattanashetti&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Embedded%20Software%20Engineer%20%7C%20FAANG%20Aspirant%20%7C%20LG%20Soft%20India&descSize=14&descAlignY=68&descColor=cccccc&animation=fadeIn" width="100%"/>
+<!-- ░░░ DEEP OCEAN HEADER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,25:0a2a4a,50:0d3b6e,75:0e5a8a,100:1a8fa8&height=220&section=header&text=Somanath%20Pattanashetti&fontSize=40&fontColor=e0f4ff&fontAlignY=42&desc=⚓%20Embedded%20Engineer%20%7C%20Navigating%20FAANG%20Waters%20%7C%20LG%20Soft%20India&descSize=13&descAlignY=64&descColor=7fd4f0&animation=fadeIn" width="100%"/>
 
 </div>
 
+<!-- ░░░ ANIMATED BUBBLES DIVIDER ░░░ -->
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somanathp)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomanathPattanashetti)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SomanathPattanashetti/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ivy3.onrender.com/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somanathpattanashetti@gmail.com)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=500&color=7FD4F0&center=true&vCenter=true&multiline=false&width=600&lines=🌊+Diving+deep+into+systems...;🐟+Swimming+through+DSA+every+day...;🐙+Exploring+the+ocean+of+software...;⚓+Anchored+in+C%2B%2B+%26+Embedded+Systems...;🚀+Surfacing+at+FAANG+by+2028..." alt="Typing SVG" />
 </div>
 
 ---
 
-### `> whoami`
+<!-- ░░░ SONAR PING — WHO AM I ░░░ -->
 
-```yaml
-name     : Somanath Pattanashetti
-role     : Embedded Software Engineer
-company  : LG Soft India, Bengaluru
-degree   : B.E. Electronics & Communication
-focus    : DSA
-goal     : FAANG-bound — 2028
-status   : solving one LeetCode problem every single day
+<div align="center">
+
+```
+  ·  ·  ·  ─ ─ ─ ═ ═ [ SONAR PING ] ═ ═ ─ ─ ─  ·  ·  ·
 ```
 
-> Learning never stops—just changes levels.
-> Off the clock, I'm grinding DSA, building toward a FAANG SDE role by 2028.
+</div>
+
+```yaml
+▸ name     :  Somanath Pattanashetti
+▸ role     :  Embedded Software Engineer
+▸ vessel   :  LG Soft India, Bengaluru  🇮🇳
+▸ degree   :  B.E. Electronics & Communication
+▸ mission  :  Crack FAANG as SDE — 2028
+▸ depth    :  Daily LeetCode · C++ · Python · DSA
+▸ status   :  [ ACTIVE ]  One problem solved. Every. Single. Day.
+```
+
+> *"The ocean of knowledge has no shore. I'm just a better swimmer than yesterday."*
 
 ---
 
-### `> tech --stack`
+<!-- ░░░ BIOLUMINESCENT BADGES ░░░ -->
 
 <div align="center">
 
-**Languages & Core**
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0a2a4a?style=for-the-badge&logoColor=7fd4f0&logo=linkedin&labelColor=0d3b6e)](https://www.linkedin.com/in/somanathp)
+[![GitHub](https://img.shields.io/badge/⚓_GitHub-020b18?style=for-the-badge&logo=github&logoColor=7fd4f0&labelColor=0a2a4a)](https://github.com/SomanathPattanashetti)
+[![LeetCode](https://img.shields.io/badge/🧩_LeetCode-0d3b6e?style=for-the-badge&logo=leetcode&logoColor=7fd4f0&labelColor=0a2a4a)](https://leetcode.com/u/SomanathPattanashetti/)
+[![Portfolio](https://img.shields.io/badge/🌊_Portfolio-0e5a8a?style=for-the-badge&logo=google-chrome&logoColor=e0f4ff&labelColor=0d3b6e)](https://portfolio-ivy3.onrender.com/)
+[![Email](https://img.shields.io/badge/📡_Contact-1a8fa8?style=for-the-badge&logo=gmail&logoColor=e0f4ff&labelColor=0e5a8a)](mailto:somanathpattanashetti@gmail.com)
+
+</div>
+
+---
+
+<!-- ░░░ DEPTH CHART — TECH STACK ░░░ -->
+
+<div align="center">
+
+```
+  ┌─────────────────────────────────────────────┐
+  │  🌊  DEPTH CHART  ·  Tech Stack Sonar       │
+  └─────────────────────────────────────────────┘
+```
+
+**`[ SURFACE LAYER ]`  Languages & Core**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash&theme=dark" />
 
-**Platforms & Tools**
+**`[ MID WATER ]`  Platforms & Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=arduino,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino&theme=dark" />
 
-**Web & Backend**
+**`[ DEEP ZONE ]`  Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=django,html,css,js,bootstrap&theme=dark" />
 
-<br/>
-
-**Microcontrollers & RTOS**
-
-![PIC18F4580](https://img.shields.io/badge/PIC18F4580-00d4aa?style=flat-square&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00d4aa?style=flat-square&logoColor=white)
-
-**Protocols & Peripherals**
-
-![UART](https://img.shields.io/badge/UART-7c6aff?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-7c6aff?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-7c6aff?style=flat-square)
-![CAN](https://img.shields.io/badge/CAN-7c6aff?style=flat-square)
-![GPIO](https://img.shields.io/badge/GPIO-7c6aff?style=flat-square)
-![ADC](https://img.shields.io/badge/ADC-7c6aff?style=flat-square)
-![PWM](https://img.shields.io/badge/PWM-7c6aff?style=flat-square)
-![EEPROM](https://img.shields.io/badge/EEPROM-7c6aff?style=flat-square)
-![ISR](https://img.shields.io/badge/ISR-7c6aff?style=flat-square)
-
 </div>
 
----
-
-### `> stats --github`
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SomanathPattanashetti&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00d4aa&icon_color=7c6aff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomanathPattanashetti&layout=compact&theme=radical&hide_border=true&title_color=00d4aa&bg_color=0d1117" height="165"/>
+**`[ HADAL ZONE ]`  Microcontrollers & RTOS**
 
-<br/>
+![PIC18F4580](https://img.shields.io/badge/🔲_PIC18F4580-020b18?style=flat-square&color=0a2a4a&logoColor=7fd4f0)
+![STM32](https://img.shields.io/badge/⚡_STM32-0d3b6e?style=flat-square&logo=stmicroelectronics&logoColor=7fd4f0)
+![ARM](https://img.shields.io/badge/🦾_ARM_Cortex-0e5a8a?style=flat-square&logo=arm&logoColor=e0f4ff)
+![FreeRTOS](https://img.shields.io/badge/⏱_FreeRTOS-1a8fa8?style=flat-square&logoColor=e0f4ff)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SomanathPattanashetti&theme=radical&hide_border=true&ring=00d4aa&fire=7c6aff&currStreakLabel=00d4aa&background=0d1117" />
+**`[ PRESSURE ZONE ]`  Protocols & Peripherals**
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomanathPattanashetti&theme=react-dark&hide_border=true&area=true&color=00d4aa&line=7c6aff&point=ffffff&bg_color=0d1117" />
+![UART](https://img.shields.io/badge/UART-0a2a4a?style=flat-square&color=0d3b6e)
+![SPI](https://img.shields.io/badge/SPI-0a2a4a?style=flat-square&color=0d3b6e)
+![I2C](https://img.shields.io/badge/I2C-0a2a4a?style=flat-square&color=0d3b6e)
+![CAN](https://img.shields.io/badge/CAN-0e5a8a?style=flat-square)
+![GPIO](https://img.shields.io/badge/GPIO-0e5a8a?style=flat-square)
+![ADC](https://img.shields.io/badge/ADC-1a8fa8?style=flat-square)
+![PWM](https://img.shields.io/badge/PWM-1a8fa8?style=flat-square)
+![EEPROM](https://img.shields.io/badge/EEPROM-1a8fa8?style=flat-square)
+![ISR](https://img.shields.io/badge/ISR-1a8fa8?style=flat-square)
 
 </div>
 
 ---
 
-### `> snake --contributions`
+<!-- ░░░ OCEAN FLOOR — MISSION LOG ░░░ -->
 
 <div align="center">
 
-[![snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/platane/snk)
+```
+  ┌─────────────────────────────────────────────┐
+  │  📡  MISSION LOG  ·  Expedition Roadmap     │
+  └─────────────────────────────────────────────┘
+```
 
 </div>
 
-<details>
-<summary><code>⚙ setup snake workflow</code></summary>
-
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
-Then run it manually once from **Actions → Generate Snake → Run workflow**.
-After that it auto-runs daily at midnight.
-
-</details>
-
----
-
-### `> roadmap`
-
-```
-◼ 2026  →  Software Engineer @ LG Soft India          [ ACTIVE ]
-           Daily LeetCode · C++ · Python DSA
-
-◼ 2027  →  300+ LeetCode · System Design HLD/LLD      [ LOADING ]
-           Trees · Graphs · Dynamic Programming
-
-◼ 2028  →  FAANG / Top-tier SDE                       [ TARGET  ]
-           Hardware thinking meets large-scale systems
+                    〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
+  🌊 SURFACE  ›  2026  ═══════════════════════════  [ ACTIVE ]
+                        Software Engineer @ LG Soft India
+                        Daily LeetCode · C++ · Python DSA
+                    ⋮
+  🐠 MID-SEA  ›  2027  ════════════════════════  [ LOADING... ]
+                        300+ LeetCode · System Design HLD/LLD
+                        Trees · Graphs · Dynamic Programming
+                    ⋮
+  🌑 ABYSS    ›  2028  ═══════════════════════════  [ TARGET ]
+                        FAANG / Top-Tier SDE Role 🚀
+                        Hardware thinking meets large-scale systems
+                    〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 ```
 
 ---
 
+<!-- ░░░ STATS PANEL ░░░ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6aff,100:00d4aa&height=140&section=footer&text=Code%20with%20Purpose.%20Solve%20with%20Consistency.&fontSize=16&fontColor=ffffff&fontAlignY=45&desc=Currently%20%40%20LG%20Soft%20India%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20Destination%3A%20FAANG%20%F0%9F%9A%80&descSize=12&descColor=cccccc&descAlignY=68" width="100%"/>
+```
+  ┌─────────────────────────────────────────────┐
+  │  📊  BIOMETRICS  ·  GitHub Ocean Stats      │
+  └─────────────────────────────────────────────┘
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=SomanathPattanashetti&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=7fd4f0&icon_color=1a8fa8&text_color=b0d8f0&bg_color=00000000&ring_color=0e5a8a" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomanathPattanashetti&layout=compact&theme=transparent&hide_border=true&title_color=7fd4f0&text_color=b0d8f0&bg_color=00000000" height="165"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SomanathPattanashetti&theme=transparent&hide_border=true&ring=1a8fa8&fire=7fd4f0&currStreakLabel=7fd4f0&sideNums=b0d8f0&sideLabels=b0d8f0&dates=7fd4f0&stroke=0e5a8a&background=00000000" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomanathPattanashetti&theme=react-dark&hide_border=true&area=true&color=7fd4f0&line=1a8fa8&point=e0f4ff&bg_color=020b18&area_color=0d3b6e" />
+
+</div>
+
+---
+
+<!-- ░░░ BUBBLE TRAIL CONTRIBUTIONS ░░░ -->
+
+<div align="center">
+
+```
+  ┌─────────────────────────────────────────────┐
+  │  🫧  BUBBLE TRAIL  ·  Contribution Ocean    │
+  └─────────────────────────────────────────────┘
+```
+
+[![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/platane/snk)
+
+</div>
+
+---
+
+<!-- ░░░ DEEP-SEA TROPHIES ░░░ -->
+
+<div align="center">
+
+```
+  ┌─────────────────────────────────────────────┐
+  │  🏆  ARTIFACTS  ·  Recovered from the Deep  │
+  └─────────────────────────────────────────────┘
+```
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SomanathPattanashetti&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&title=Stars,Commits,Repositories,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ░░░ ECHO SOUNDER — PROFILE VIEWS ░░░ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SomanathPattanashetti&style=for-the-badge&color=0e5a8a&label=⚓+DEPTH+PINGS)
+
+```
+  · · · ─ ─ ═  Code with Purpose. Solve with Consistency.  ═ ─ ─ · · ·
+                    Currently @ LG Soft India 🇮🇳
+                      Destination : FAANG 🚀
+```
+
+</div>
+
+<!-- ░░░ DEEP OCEAN FOOTER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8fa8,25:0e5a8a,50:0d3b6e,75:0a2a4a,100:020b18&height=180&section=footer&text=🌊%20Dive%20Deeper.%20Code%20Harder.&fontSize=22&fontColor=7fd4f0&fontAlignY=42&desc=Surfacing%20at%20FAANG%20—%202028%20🚀&descSize=13&descColor=b0d8f0&descAlignY=68" width="100%"/>
